@@ -1,7 +1,7 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-Este projeto explora o impacto das IAs generativas na criação de conteúdo, com foco na criação de um podcast em português. O podcast aborda dois tópicos principais: como a inteligência artificial pode auxiliar na criação de conteúdo e como identificar se algo foi gerado artificialmente ou se é real.
+Este projeto explora o impacto das IAs generativas na criação de conteúdo, com foco na criação de um podcast em português. O podcast aborda dois tópicos principais: como a inteligência artificial pode auxiliar na criação de conteúdo e como o Github pode ajudar no desenvolvimento dessa tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
 - **(Notebooklm)**: Utilizado para o desenvolvimento do podcast e processamento das ideias principais.
