@@ -1,51 +1,22 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o impacto das IAs generativas na criação de conteúdo, com foco na criação de um podcast em português. O podcast aborda dois tópicos principais: como a inteligência artificial pode auxiliar na criação de conteúdo e como identificar se algo foi gerado artificialmente ou se é real.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **(Notebooklm)**: Utilizado para o desenvolvimento do podcast e processamento das ideias principais.
+- **IAs Generativas**: Aplicadas para estruturação do conteúdo e sugestões criativas.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Planejamento do Conteúdo**: Foi estruturado um roteiro destacando:
+   - As IAs serão ferramentas ou irão nos substituir?.
+   - Usar o Github pra aprimorar e desenvolvrer os modelos de IA de forma conjunta com outros desenvolvedores.
+2. **Produção no Google Colab**: Utilizei o Notebooklm para organizar o texto base e refinar as ideias principais do podcast.
+3. **Gravação e Edição**: O áudio foi gravado e editado com ferramentas de edição para garantir uma qualidade profissional e engajante.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Um episódio de podcast em português, com duração aproximada de 3 minutos, cobrindo insights práticos sobre o uso de IA na criação de conteúdo e se é possível distinguir o que é real do que é fake.
+- Conteúdo claro e relevante para quem deseja entender o impacto das IAs no mercado de conteúdo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este projeto foi uma oportunidade incrível de explorar como as ferramentas de IA podem ser tanto uma aliada poderosa quanto um desafio para manter a autenticidade no mundo digital. Foi interessante equilibrar a geração de conteúdo com IA e garantir que o produto final ainda refletisse uma perspectiva genuína e humana.
